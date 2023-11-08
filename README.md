@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F61%2F35%2Ffc%2F6135fc3aabafc6a1a15f0f456fe79b03.png&f=1&nofb=1&ipt=c2f777ae9413458adb3a1bba6132b8fcbb846c521bf5de18b9f5e03d7ff11999&ipo=images" width="100"/>
+</div>
+
+
 <!--
 **juliaisasti/juliaisasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
