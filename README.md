@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/juliaisasti/juliaisasti/blob/main/img.gif" width="25%" align="left" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A1EC&random=false&width=435&lines=Hi!+I'm+Julia+Isasti+%E2%98%86+%EF%BD%9E('%E2%96%BD%5E%E4%BA%BA))](https://git.io/typing-svg)" width="70%" />
 <br><br>
 <pre>
     💼 Learning Fullstack Web Development
