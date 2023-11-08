@@ -8,7 +8,7 @@
     📖 Currently learning Back-end Dev
     🎮 Art • Music • Games • Anime • Code  
     🐾 🐰 • 
-    https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjuliaisasti&style=for-the-badge&logo=twitter&logoColor=ffb6c1&labelColor=ffe2e6&color=ffe2e6
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjuliaisasti&style=for-the-badge&logo=twitter&logoColor=ffb6c1&labelColor=ffe2e6&color=ffe2e6"/>
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
