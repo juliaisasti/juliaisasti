@@ -5,7 +5,7 @@
 <pre>
     💼 Learning Fullstack Web Development
     💻 JavaScript • HTML • CSS
-    📖 Currently learning React
+    📖 Currently learning DevOps!
     🎮 Art • Music • Games • Anime • Code  
     🐾 🐰 • 
 </pre>
