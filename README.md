@@ -4,8 +4,8 @@
 <br><br>
 <pre>
     💼 Learning Fullstack Web Development
-    💻 JavaScript • HTML • CSS
-    📖 Currently learning DevOps!
+    💻 JavaScript • HTML • CSS 
+    📖 Currently internee at Secture Labs
     🎮 Art • Music • Games • Anime • Code  
     🐾 🐰 • 
 </pre>
