@@ -5,7 +5,7 @@
 <pre>
     💼 Learning Fullstack Web Development
     💻 JavaScript • HTML • CSS 
-    📖 Currently internee at Secture Labs
+    📖 Currently Web Dev Full-Stack Trainee at Secture Labs
     🎮 Art • Music • Games • Anime • Code  
     🐾 🐰 • 
 </pre>
