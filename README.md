@@ -4,8 +4,8 @@
 <br><br>
 <pre>
     💼 Junior Full-Stack Web Developer
-    💻 JavaScript • HTML • CSS 
-    📖 Currently Web Dev Full-Stack Trainee at Secture Labs
+    💻 JavaScript • HTML • CSS • UX/UI
+    📖 The Odin Project Student
     🎮 Art • Music • Games • Anime • Code  
     🐾 🐰 • 
 </pre>
